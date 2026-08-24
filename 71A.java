@@ -13,7 +13,7 @@ public class 71A{
         char last = word.length() -1;
         char middlelen = word.length()-2;
         System.out.println(first + String.vlaueof(middlelen) + last);
-      }else{
+      }else {
         System.out.print(word);
       }
     }
