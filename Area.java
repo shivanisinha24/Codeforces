@@ -5,7 +5,7 @@ public class Area{
     double R = sc.nextDouble();
     double pi = 3.141592653;
     double area = pi * R * R;
-    System.out.println("%.9f\n",area);
+    System.out.println("%.9f\n", area);
     sc.close();
   }
 }
