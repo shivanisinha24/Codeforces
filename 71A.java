@@ -6,7 +6,7 @@ public class 71A{
     Scanner sc = new Scanner(System.in);
     int  n = Scanner.nextInt();
 
-    for(int i=0;i<n;i++){
+    for(int i=0; i<n; i++){
       String word =scanner.next();
       if(word.length>10){
         char first = word.charAt(0);
